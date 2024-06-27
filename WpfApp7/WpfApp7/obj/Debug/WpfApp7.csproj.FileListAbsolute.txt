@@ -1,0 +1,16 @@
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\danil\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
